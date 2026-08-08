@@ -64,42 +64,23 @@ The project uses the **Parkinson's voice dataset**, which contains biomedical vo
 
 ---
 
-# 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
-### Programming Language
+Programming Language: Python
 
-* Python
+ Data Analysis: Pandas,NumPy
 
-### Data Analysis
+Visualization: Matplotlib, Seaborn
 
-* Pandas
-* NumPy
+Machine Learning: Scikit-learn, XGBoost
 
-### Visualization
+Statistical Analysis:SciPy
 
-* Matplotlib
-* Seaborn
+Explainable AI: SHAP
 
-### Machine Learning
+Deployment / Interface:Streamlit
 
-* Scikit-learn
-* XGBoost
-
-### Statistical Analysis
-
-* SciPy
-
-### Explainable AI
-
-* SHAP
-
-### Deployment / Interface
-
-* Streamlit
-
-### Model Persistence
-
-* Joblib
+Model Persistence: Joblib
 
 ---
 ▶️ Run
